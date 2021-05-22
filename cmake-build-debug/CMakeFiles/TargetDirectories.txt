@@ -1,0 +1,3 @@
+C:/Users/aleja/Desktop/PROGRA2/PROYECTO_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleja/Desktop/PROGRA2/PROYECTO_2/cmake-build-debug/CMakeFiles/LinkedList.dir
+C:/Users/aleja/Desktop/PROGRA2/PROYECTO_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
